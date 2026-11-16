@@ -1,0 +1,10 @@
+C01b-爱因斯坦四视图|16:9|node_8ssb4qndms|1369885c-3e6a-472f-aeb1-c02eefc69c86
+C02-玻尔正面全身|9:16|node_63nrfjh01k|16378151-06a4-48b5-a53e-03a82f9848da
+C02b-玻尔四视图|16:9|node_ffpt52mew2|1b419222-291d-406a-98ef-ffe24b8b59eb
+S01-书房正打|16:9|node_5d7hk4d1bq|8ac564e9-e44c-405a-9983-86f339451f8d
+S01-书房反打|16:9|node_nn2km7k0sa|a6d949e5-5cb4-4c4f-b1ce-efecf4000a93
+S01-书房侧面全景|16:9|node_kbdm0xnq4q|1e759de1-ca93-4f88-8f7b-9a818989f309
+P01-粉笔|1:1|node_tqkehc5mbf|ca4c5ca0-1f87-4c9e-b686-aa9d6269a068
+P02-烟斗|1:1|node_ey3b6d9qkq|5f740dab-3676-429c-b563-7f630e1287f4
+P03-圆框眼镜|1:1|node_m06xk39mze|59fbd73c-540e-4f5b-ae1e-2fa1fb765f79
+P04-咖啡杯|1:1|node_7p3k301ra4|602c2f3b-1faf-45e1-939a-32159ed5da5d
