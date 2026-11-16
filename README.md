@@ -135,3 +135,5 @@ B站看成片： https://www.bilibili.com/video/BV1fksA6qEaq/?vd_source=86926e41
 ## 一句话总结
 
 **故事进去，真人质感的短剧出来。** 关键在于把"真人感"拆成可执行的细节，并且严格按"先出图锁形象、再生成视频"的顺序走。
+
+特别致谢 ： https://linux.do
