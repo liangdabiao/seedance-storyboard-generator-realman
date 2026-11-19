@@ -136,4 +136,7 @@ B站看成片： https://www.bilibili.com/video/BV1fksA6qEaq/?vd_source=86926e41
 
 **故事进去，真人质感的短剧出来。** 关键在于把"真人感"拆成可执行的细节，并且严格按"先出图锁形象、再生成视频"的顺序走。
 
+还有配套的dsh工作台： https://github.com/liangdabiao/dsh-realman-studio
+<img width="2091" height="1392" alt="image" src="https://github.com/user-attachments/assets/e6a816ea-ad9f-4e29-ae14-26679414ec0d" />
+
 特别致谢 ： https://linux.do
